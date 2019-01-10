@@ -1,0 +1,14 @@
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\bin\Debug\netcoreapp2.1\20190110_KNK.deps.json
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\bin\Debug\netcoreapp2.1\20190110_KNK.runtimeconfig.json
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\bin\Debug\netcoreapp2.1\20190110_KNK.runtimeconfig.dev.json
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\bin\Debug\netcoreapp2.1\20190110_KNK.dll
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\bin\Debug\netcoreapp2.1\20190110_KNK.pdb
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.csprojAssemblyReference.cache
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.csproj.CoreCompileInputs.cache
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.RazorAssemblyInfo.cache
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.RazorAssemblyInfo.cs
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.AssemblyInfoInputs.cache
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.AssemblyInfo.cs
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.RazorTargetAssemblyInfo.cache
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.dll
+C:\Users\GDC2\Desktop\github\newBuild\WebAPI\20190110_KNK\obj\Debug\netcoreapp2.1\20190110_KNK.pdb

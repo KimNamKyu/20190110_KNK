@@ -1,0 +1,59 @@
+
+<hr>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="http://192.168.3.101:5000/api/Insert" method="POST">
+            <input type="text" name="nTitle" placeholder="제목을 입력하세요"><br>
+            <input type="text" name="nContents" placeholder="내용을 입력하세요"><br>
+            <input type="submit" value="POST 추가"><br>
+        </form>
+    </body>
+</html>
+
+<hr>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="http://192.168.3.101:5000/api/Update" method="POST">
+            <input type="text" name="nNo" placeholder="번호를 입력하세요"><br>
+            <input type="text" name="nTitle" placeholder="제목을 입력하세요"><br>
+            <input type="text" name="nContents" placeholder="내용을 입력하세요"><br>
+            <input type="submit" value="POST 수정"><br>
+        </form>
+    </body>
+</html>
+
+<hr>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="http://192.168.3.101:5000/api/Delete" method="POST">
+            <input type="text" name="nNo" placeholder="번호를 입력하세요"><br>
+            <input type="submit" value="POST 삭제"><br>
+        </form>
+    </body>
+</html>
+
+<hr>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <form action="http://192.168.3.101:5000/api/Select" method="GET">
+            <input type="submit" value="조회"><br>
+        </form>
+    </body>
+</html>
+
